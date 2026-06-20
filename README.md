@@ -49,6 +49,8 @@ Periodic cyber security newsletters that capture the latest news, summaries of c
   
 ## News Newsletters 
 
+* [Cyber Recaps](https://cyberrecaps.com/) - A daily cybersecurity newsletter summarizing the most important stories from the last 24 hours, covering breaches, vulnerabilities, exploits, threat actors, and security research. Published in English, Hebrew, and Russian.
+
 - [The CyberSecurity Club](https://thecybersecurityclub.beehiiv.com/) - Provides a short summary on all the key topics you may have missed for the week, covering threat intelligence, cybersecurity trends & insights, regulatory developments and vulnerability news.
 
 - [TLDR Information Security](https://tldr.tech/infosec) - A daily newsletter delivering the latest news, research, and tools.
